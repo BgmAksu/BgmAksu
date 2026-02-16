@@ -11,12 +11,11 @@ Previously worked as a Cyber Security Researcher at TÜBİTAK, which gave me a s
 
 ## 🔧 Tech Stack
 
-- PHP, Python  
-- MySQL, MongoDB  
-- REST APIs  
-- Git  
-- HTML, CSS, Bootstrap  
-- Cyber Security: SAST, Secure Coding  
+![PHP](https://img.shields.io/badge/PHP-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Git](https://img.shields.io/badge/Git-red)
 
 ---
 
