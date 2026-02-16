@@ -33,3 +33,5 @@ https://github.com/BgmAksu/Catering-API
 - Open to backend or full-stack opportunities  
 
 Thanks for visiting my profile!
+
+![Begüm's GitHub stats](https://github-readme-stats.vercel.app/api?username=BgmAksu&show_icons=true)
