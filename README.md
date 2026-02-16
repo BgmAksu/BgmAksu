@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Begüm 👋
 
-<!--
-**BgmAksu/BgmAksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with experience in PHP and Python, and a strong background in Cyber Security.
 
-Here are some ideas to get you started:
+I enjoy building APIs, working with databases, and creating clean, maintainable backend services.  
+Previously worked as a Cyber Security Researcher at TÜBİTAK, which gave me a security-first mindset in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- PHP, Python  
+- MySQL, MongoDB  
+- REST APIs  
+- Git  
+- Basic frontend: HTML, CSS, Bootstrap  
+- Cyber Security: SAST, Secure Coding
+
+### 📌 Featured Project
+- Catering API (PHP backend): https://github.com/BgmAksu/Catering-API
+
+### 🌍 About Me
+- Based in the Netherlands  
+- Valid Dutch work permit  
+- Open to backend or full-stack opportunities  
+
+Thanks for visiting my profile!
